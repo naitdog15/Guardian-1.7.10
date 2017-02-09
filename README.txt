@@ -1,37 +1,7 @@
--------------------------------------------
-Source installation information for modders
--------------------------------------------
-This code follows the Minecraft Forge installation methodology. It will apply
-some small patches to the vanilla MCP source code, giving you and it access 
-to some of the data and functions you need to build a successful mod.
+A small code dump for gany or anyone of the Minecraft 1.7 modding community. Solving small issue with placement of the Guardian mob in 1.7.10.
 
-Note also that the patches are built against "unrenamed" MCP source code (aka
-srgnames) - this means that you will not be able to read them directly against
-normal code.
+Render and modeling seem fit for 1.7 algorithm. Behaviour out of water also seem to work fine. Issues include: I assume the BoundingBox() method to cause the mob to swim downward when reaching the surface is invalid. Mob does not hover from distance and exicute Guardian Beam on the hostility of the player. No elder chance. Mob can not move on the Y axis. (swim up and down to required target).
 
-Source pack installation information:
+I've pretty much copied the majority of 1.8 code, changing the code where nessessary and adding extenders to help with additional code required.
 
-Standalone source installation
-==============================
-
-To install this source code for development purposes, extract this zip file.
-It ships with a demonstration mod. Run 'gradlew setupDevWorkspace' to create
-a gradle environment primed with FML. Run 'gradlew eclipse' or 'gradlew idea' to
-create an IDE workspace of your choice.
-Refer to ForgeGradle for more information about the gradle environment
-Note: On macs or linux you run the './gradlew.sh' instead of 'gradlew'
-
-Forge source installation
-=========================
-MinecraftForge ships with this code and installs it as part of the forge
-installation process, no further action is required on your part.
-
-For reference this is version @MAJOR@.@MINOR@.@REV@.@BUILD@ of FML
-for Minecraft version @MCVERSION@.
-
-LexManos' Install Video
-=======================
-https://www.youtube.com/watch?v=8VEdtQLuLO0&feature=youtu.be
-
-For more details update more often refer to the Forge Forums:
-http://www.minecraftforge.net/forum/index.php/topic,14048.0.html
+If anyone can figure out solutions to these problems, please do let me know. And gany thankyou for taking a look if this is you.
