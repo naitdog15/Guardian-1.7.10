@@ -1,0 +1,15 @@
+[
+{
+  "modid": "TemogAesthetics",
+  "name": "Temog Aesthetics",
+  "description": "Additional mod implementation to the Temog Modpack",
+  "version": "1.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Naitdog15"]["MrCouchy"],
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

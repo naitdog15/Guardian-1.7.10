@@ -1,0 +1,125 @@
+{
+  "glaze-breathe":{
+    "category": "master",
+    "sounds": [
+      "mob/glaze/glaze_breathe1",
+      "mob/glaze/glaze_breathe2",
+      "mob/glaze/glaze_breathe3",
+      "mob/glaze/glaze_breathe4"
+    ]
+  },
+  "glaze-hit":{
+      "category": "master",
+    "sounds": [
+      "mob/glaze/glaze_hit1",
+      "mob/glaze/glaze_hit2",
+      "mob/glaze/glaze_hit3",
+      "mob/glaze/glaze_hit4",
+      "mob/glaze/glaze_hit5"
+    ]
+  },
+  "curse":{
+      "category": "master",
+    "sounds": [
+      "mob/guardian/curse"
+    ]
+  },
+  "elder_death":{
+      "category": "master",
+    "sounds": [
+       "mob/guardian/elder_death"
+    ]
+  },
+  "elder_hit":{
+      "category": "master",
+    "sounds": [
+       "mob/guardian/elder_hit1",
+       "mob/guardian/elder_hit2",
+       "mob/guardian/elder_hit3",
+       "mob/guardian/elder_hit4"
+    ]
+  },
+  "elder_idle":{
+      "category": "master",
+    "sounds": [
+       "mob/guardian/elder_idle1",
+       "mob/guardian/elder_idle2",
+       "mob/guardian/elder_idle3",
+       "mob/guardian/elder_idle4"
+    ]
+  },
+  "flop":{
+      "category": "master",
+    "sounds": [
+       "mob/guardian/flop1",
+       "mob/guardian/flop2",
+       "mob/guardian/flop3",
+       "mob/guardian/flop4"
+    ]
+  },
+  
+  "guardian_attack_loop":{
+      "category": "master",
+    "sounds": [
+       "mob/guardian/guardian_attack_loop"
+    ]
+  },
+  "guardian_death":{
+      "category": "master",
+    "sounds": [
+       "mob/guardian/guardian_death"
+    ]
+  },
+  "guardian_hit":{
+      "category": "master",
+    "sounds": [
+       "mob/guardian/guardian_hit1",
+       "mob/guardian/guardian_hit2",
+       "mob/guardian/guardian_hit3",
+       "mob/guardian/guardian_hit4"
+    ]
+  },
+  "guardian_idle":{
+      "category": "master",
+    "sounds": [
+      "mob/guardian/guardian_idle1",
+       "mob/guardian/guardian_idle2",
+       "mob/guardian/guardian_idle3",
+       "mob/guardian/guardian_idle4"
+    ]
+  },
+  "land_death":{
+      "category": "master",
+    "sounds": [
+      "mob/guardian/land_death"
+    ]
+  },
+  "land_hit":{
+      "category": "master",
+    "sounds": [
+      "mob/guardian/land_hit1",
+       "mob/guardian/land_hit2",
+       "mob/guardian/land_hit3",
+       "mob/guardian/land_hit4"
+    ]
+  },
+  
+  "land_idle":{
+      "category": "master",
+    "sounds": [
+      "mob/guardian/land_idle1",
+       "mob/guardian/land_idle2",
+       "mob/guardian/land_idle3",
+       "mob/guardian/land_idle4"
+    ]
+  },
+  "thorns":{
+  "category": "master",
+    "sounds": [
+      "thorns/hit1",
+       "thorns/hit2",
+       "thorns/hit3",
+       "thorns/hit4"
+    ]
+  }
+}

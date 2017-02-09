@@ -1,0 +1,53 @@
+[16:44:33] [main/INFO]: Setting user: Player952
+[16:44:38] [Client thread/INFO]: LWJGL Version: 2.9.1
+[16:45:21] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Temog Aesthetics
+[16:45:26] [Sound Library Loader/INFO]: Sound engine started
+[16:45:48] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_breathe1.ogg does not exist, cannot add it to event temogaesthetics:glaze-breathe
+[16:45:48] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_breathe2.ogg does not exist, cannot add it to event temogaesthetics:glaze-breathe
+[16:45:48] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_breathe3.ogg does not exist, cannot add it to event temogaesthetics:glaze-breathe
+[16:45:48] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_breathe4.ogg does not exist, cannot add it to event temogaesthetics:glaze-breathe
+[16:45:48] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_hit1.ogg does not exist, cannot add it to event temogaesthetics:glaze-hit
+[16:45:48] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_hit2.ogg does not exist, cannot add it to event temogaesthetics:glaze-hit
+[16:45:48] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_hit3.ogg does not exist, cannot add it to event temogaesthetics:glaze-hit
+[16:45:48] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_hit4.ogg does not exist, cannot add it to event temogaesthetics:glaze-hit
+[16:45:48] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_hit5.ogg does not exist, cannot add it to event temogaesthetics:glaze-hit
+[16:45:49] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[16:45:49] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[16:45:50] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Temog Aesthetics
+[16:45:52] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[16:45:52] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[16:45:53] [Sound Library Loader/INFO]: Sound engine started
+[16:45:56] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_breathe1.ogg does not exist, cannot add it to event temogaesthetics:glaze-breathe
+[16:45:56] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_breathe2.ogg does not exist, cannot add it to event temogaesthetics:glaze-breathe
+[16:45:56] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_breathe3.ogg does not exist, cannot add it to event temogaesthetics:glaze-breathe
+[16:45:56] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_breathe4.ogg does not exist, cannot add it to event temogaesthetics:glaze-breathe
+[16:45:56] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_hit1.ogg does not exist, cannot add it to event temogaesthetics:glaze-hit
+[16:45:56] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_hit2.ogg does not exist, cannot add it to event temogaesthetics:glaze-hit
+[16:45:56] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_hit3.ogg does not exist, cannot add it to event temogaesthetics:glaze-hit
+[16:45:56] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_hit4.ogg does not exist, cannot add it to event temogaesthetics:glaze-hit
+[16:45:56] [Client thread/WARN]: File temogaesthetics:sounds/mob/glaze/glaze_hit5.ogg does not exist, cannot add it to event temogaesthetics:glaze-hit
+[16:46:13] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[16:46:13] [Server thread/INFO]: Generating keypair
+[16:46:15] [Server thread/INFO]: Converting map!
+[16:46:15] [Server thread/INFO]: Scanning folders...
+[16:46:15] [Server thread/INFO]: Total conversion count is 0
+[16:46:17] [Server thread/INFO]: Preparing start region for level 0
+[16:46:18] [Server thread/INFO]: Changing view distance to 12, from 10
+[16:46:20] [Server thread/INFO]: Player952[local:E:64623137] logged in with entity id 0 at (6.5, 4.0, -121.5)
+[16:46:20] [Server thread/INFO]: Player952 joined the game
+[16:46:24] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2343ms behind, skipping 46 tick(s)
+[16:46:34] [Client thread/INFO]: Warning: Clientside chunk ticking took 118 ms
+[16:46:35] [Server thread/INFO]: Player952 has just earned the achievement [Taking Inventory]
+[16:46:35] [Client thread/INFO]: [CHAT] Player952 has just earned the achievement [Taking Inventory]
+[16:46:41] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2108ms behind, skipping 42 tick(s)
+[16:46:50] [Server thread/INFO]: Saving and pausing game...
+[16:46:50] [Server thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:46:50] [Client thread/INFO]: Stopping!
+[16:46:51] [Server thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:46:51] [Client Shutdown Thread/INFO]: Stopping server
+[16:46:51] [Client Shutdown Thread/INFO]: Saving players
+[16:46:51] [Client Shutdown Thread/INFO]: Saving worlds
+[16:46:51] [Client Shutdown Thread/INFO]: Saving chunks for level 'New World'/Overworld
+[16:46:51] [Client Shutdown Thread/INFO]: Saving chunks for level 'New World'/Nether
+[16:46:51] [Client Shutdown Thread/INFO]: Saving chunks for level 'New World'/The End
+[16:46:51] [Server thread/INFO]: Saving chunks for level 'New World'/The End
